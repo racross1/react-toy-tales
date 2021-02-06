@@ -13,6 +13,6 @@ After drawing out the app hierarchy, you should hook up the data from the 'db.js
 
 After the ToyCard components are on the page, consider building out the functionality for the ToyForm. Using the ideas of controlled form and inverse data-flow, think about how to render a new ToyCard for the toy that you created.
 
-After you have the create functionality built out, consider building out the delete functionality. When you click on the `Donate to Goodwill` button, the ToyCard that you clicked on should be removed from the DOM as well as the backend.
+After you have the created functionality built out, consider building out the delete functionality. When you click on the `Donate to Goodwill` button, the ToyCard that you clicked on should be removed from the DOM as well as the backend.
 
 After that, consider building out the like functionality. Clicking on the button should increase the number of likes on the DOM as well as the backend.
